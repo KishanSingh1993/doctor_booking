@@ -3,7 +3,7 @@
   <tr>
     <td><img src="assets/icons/app_icon.png" alt="DocFinder" style="width: 300px;"/></td>
     <td>
-      <strong>DocFinder</strong> is a doctor booking app template built by <a href="https://atomsbox.com">atomsbox.com</a>. It gives you a modern UI to handle the process of scheduling and managing appointments for both patients and healthcare providers. This template is a starting point for developers looking to create a doctor booking app without building everything from scratch.
+      <strong>DocFinder</strong> is a doctor booking app template built by Kishan Singh. It gives you a modern UI to handle the process of scheduling and managing appointments for both patients and healthcare providers. This template is a starting point for developers looking to create a doctor booking app without building everything from scratch.
     </td>
   </tr>
 </table>
